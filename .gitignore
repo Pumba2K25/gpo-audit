@@ -1,0 +1,22 @@
+# PowerShell
+*.ps1xml
+*.psd1.bak
+
+# Output/reports
+output/
+reports/
+*.csv
+*.xlsx
+*.log
+
+# Credentials / secrets
+*.cred
+*.key
+secrets/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
